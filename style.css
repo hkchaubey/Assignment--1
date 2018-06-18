@@ -1,0 +1,30 @@
+h1{
+	color:Blue;
+	
+}
+
+h2{
+	color:sky blue;
+}
+
+ul li{
+	list-style-type:circle;
+	color:red;
+	align:center;
+}
+
+q{
+	color:purple;
+}
+	
+ol li{
+	list-style-type:decimal;
+	color:green
+}
+
+u{
+	color:black;
+}
+
+
+
